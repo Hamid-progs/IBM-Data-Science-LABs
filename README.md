@@ -72,11 +72,3 @@ All code and notebooks are shared under the MIT License.
 ## ✨ Author
 Created with ❤ by Muhammad Hamid Raza
 
-
-
-
-
-
-
-
-Ask ChatGPT
