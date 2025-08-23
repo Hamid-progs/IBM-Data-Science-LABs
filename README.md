@@ -40,8 +40,8 @@ This repository contains hands-on labs and projects from the IBM Data Science sp
 ## 📖 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/ibm-datascience-labs.git
-   cd ibm-datascience-labs
+   [git clone https://github.com/your-username/ibm-datascience-labs.git
+   cd ibm-datascience-labs](https://github.com/Hamid-progs/IBM-Data-Science-LABs.git)
 Open the labs in Jupyter Notebook or JupyterLab:
 
 bash
